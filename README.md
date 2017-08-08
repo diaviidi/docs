@@ -1,10 +1,10 @@
 # Alastria Blockchain Ecosystem
 
-1. Introduction
+## 1. Introduction
 
 The Alastria Blockchain Ecosystem is a Semi-Public Blockchain Platform
 
-2. Vision & Objectives
+## 2. Vision & Objectives
 
 We aim to create an open platform where everyone can deploy their own distributed applications using valid Ids.
 
@@ -12,7 +12,7 @@ We aim to create an open platform where everyone can deploy their own distribute
 * Open Source
 * No Business Model
 
-3. Base Technology
+## 3. Base Technology
 
 The Alastria ecosystem has 6 blocks
 
@@ -23,13 +23,13 @@ The Alastria ecosystem has 6 blocks
 * Endor : eGov, local administration, eVoting
 * Nebulosa : Repository of Smart Contracts, documentation, Knowledge center
 
-4.1. Lyra
+### 4.1. Lyra
 
 Lyra.ID is the base for this platform. A valid ID is needed to operate in the system
 
-4.2. Rigel. Storing information
+### 4.2. Rigel. Storing information
 
-4.3. Arrakis : The economy in Alastria
+### 4.3. Arrakis : The economy in Alastria
 
 Gas System
 
@@ -37,8 +37,8 @@ We will always follow a simple rule, gas has no price. Gas is usefull to fight s
 
 A Smart contract will act as Central Bank of Gas, receiving all fees and distributing them to all participants in the network. Everyon has gas to operate but nobody has has to speculate
 
-4.4. Vega. Communications in Alastria
+### 4.4. Vega. Communications in Alastria
 
-4.5 Endor. It's all about Pollitics.
+### 4.5 Endor. It's all about Pollitics.
 
-4.6 Nebulosa
+### 4.6 Nebulosa
