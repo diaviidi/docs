@@ -35,7 +35,7 @@ Gas System
 
 We will always follow a simple rule, gas has no price. Gas is usefull to fight spam, but we will keep our promise : The platform has no way of making money.
 
-A Smart contract will act as Central Bank of Gas, receiving all fees and distributing them to all participants in the network. Everyon has gas to operate but nobody has has to speculate
+A Smart contract will act as Central Bank of Gas, receiving all fees and distributing them to all participants in the network. Everyone has gas to operate but nobody has gas to speculate
 
 ### 4.4. Vega. Communications in Alastria
 
